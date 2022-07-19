@@ -16,7 +16,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Fron-End Developer
+I am a Front-End Developer
 
 ---
 
