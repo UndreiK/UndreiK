@@ -1,3 +1,5 @@
+# Hey, I'm Andrei 👋
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/>
   
@@ -14,12 +16,14 @@
 
 </div>
 
+<br />
 
 
 ### :man_technologist: About Me :
 I am a Front-End Developer
 
----
+<br />
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -36,7 +40,8 @@ I am a Front-End Developer
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
 </div>
 
----
+<br />
+
 ### My Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UndreiK&layout=compact)](https://github.com/UndreiK/github-readme-stats)
