@@ -12,8 +12,9 @@
  
  <img src="https://komarev.com/ghpvc/?username=UndreiK&style=flat-square&color=blue" alt=""/>
 
- ---
 </div>
+
+
 
 ### :man_technologist: About Me :
 I am a Front-End Developer
